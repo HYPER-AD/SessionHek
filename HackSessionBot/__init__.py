@@ -28,9 +28,9 @@ logging.basicConfig(level=logging.INFO)
 #client
 app = Client(
     "SupremeStark",
-    api_id = API_ID,
-    api_hash = API_HASH,
-    bot_token = TOKEN )
+    api_id = 21073257,
+    api_hash = 'e0347fc42df3712f600338a3888e9bbf',
+    bot_token = '6221137843:AAFClsCqpQth8JvcXITukeC2WzVh1-R_W08' )
     
 
 
